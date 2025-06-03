@@ -1,3 +1,3 @@
 [
-  ["1.2.0", "https://github.com/SuperCoby/ReplayBlenderUpdate/releases/download/v1.2.0/ReplayBlender.zip"]
+  ["1.2.0", "https://drive.google.com/uc?export=download&id=1i5ODymJRxpUhQHSJB8Dy_E7F7DIf5oPH"]
 ]
