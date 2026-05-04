@@ -1,3 +1,4 @@
 [
   ["1.2.0", "https://github.com/SuperCoby/test/releases/download/v1.2.0/ReplayBlender.zip"]
+  ["2.0.0", "https://github.com/SuperCoby/test/releases/download/v2.2.0/ReplayBlender.zip"]
 ]
